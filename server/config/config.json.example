@@ -1,0 +1,12 @@
+{
+  "test": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://ip:port/collection",
+    "JWT_SECRET": "random_string"
+  },
+  "development": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://ip:port/collection",
+    "JWT_SECRET": "random_string"
+  }
+}
